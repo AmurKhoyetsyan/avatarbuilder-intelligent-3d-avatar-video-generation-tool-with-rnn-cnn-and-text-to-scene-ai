@@ -58,7 +58,7 @@ design skills required—just type your script, pick your avatar, and AvatarBuil
 <tbody>
 <tr>
 <td width="50%">
-<video src=" " controls preload>
+<video src="https://github.com/user-attachments/assets/fc40545e-09b0-4ddf-866c-e57b6549dc2d" controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
@@ -70,6 +70,7 @@ Your browser does not support the video tag.
 </tr>
 </tbody>
 </table>
+
 
 ---
 
